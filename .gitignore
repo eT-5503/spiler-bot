@@ -214,10 +214,12 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
+# Streamlit
+.streamlit/secrets.toml
+
+
+
+
 .env
 spilers.db
 
-
-
-# Streamlit
-.streamlit/secrets.toml
